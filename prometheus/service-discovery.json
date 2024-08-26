@@ -1,0 +1,20 @@
+[
+  {
+    "targets": [
+      "web1:8080","web2:8080"
+    ],
+    "labels": {
+      "__meta_job": "rancher"
+    }
+
+  },
+  {
+    "targets": [
+      "web3:8080"
+    ],
+    "labels": {
+      "__meta_job": "noDiddy"
+    }
+
+  }
+]
